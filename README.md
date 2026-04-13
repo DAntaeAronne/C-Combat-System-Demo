@@ -1,4 +1,4 @@
-# D'Antae Aronne's Learning C++ Demo Game
+# C++ Combat System Demo
 This project is a simple game I developed to demonstrate my proficiency in C++ and game development concepts.     
 While the design could expand further, my focus was to create a functional and engaging experience that highlights my understanding of object-oriented programming, game mechanics, and systems development.     
      
